@@ -1,10 +1,9 @@
 <template>
-  <CounterComposition></CounterComposition>
+  <ExampleFor></ExampleFor>
 </template>
 
 <script lang="ts" setup>
-import CounterOption from './components/CounterOption.vue';
-import CounterComposition from './components/CounterComposition.vue';
+import ExampleFor from './components/ExampleFor.vue';
 </script>
 
 <style>

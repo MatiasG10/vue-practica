@@ -1,12 +1,15 @@
 <template>
-  <ExampleFor></ExampleFor>
+  <ClassBind></ClassBind>
 </template>
 
 <script lang="ts" setup>
-import ExampleFor from './components/ExampleFor.vue';
+import ClassBind from './components/ClassBind.vue';
 </script>
 
 <style>
+  body{
+    background-color: gainsboro;
+  }
   h1{
     color: blueviolet;
   }

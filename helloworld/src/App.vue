@@ -1,9 +1,9 @@
 <template>
-  <ModelForm></ModelForm>
+  <PostList></PostList>
 </template>
 
 <script lang="ts" setup>
-import ModelForm from './components/ModelForm.vue';
+import PostList from './components/PostList.vue';
 </script>
 
 <style>
